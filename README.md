@@ -9,7 +9,7 @@ Not finalized specifications at DIF
 
 | name of work item  | status  | unofficial status  | maintaining WG  | link |
 |---|---|---|-----| ---| 
-| .well-known DID configuration  | DIF-Ratified Deliverable | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/specs/did-configuration/) |
+| .well-known DID configuration  | __Approved Deliverable__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/specs/did-configuration/) |
 | Peer DID Method Specification  | __Draft__ | -  | DIDcomm  | [Link](https://identity.foundation/peer-did-method-spec/) |
 | Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft__  |  -  | DID Auth WG | [Link](https://identity.foundation/did-siop/) |
 | DIDComm Messaging  | __Draft__  | Editor’s Draft   | DIDComm WG | [Link](https://identity.foundation/didcomm-messaging/spec/) |
