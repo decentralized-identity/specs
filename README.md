@@ -25,4 +25,6 @@ Not finalized specifications at DIF
 | Credential Manifest | __Strawman__ |  Unofficial Draft + date | SDS WG | [Link](https://github.com/decentralized-identity/credential-manifest/) |
 | KERI | __Strawman__ |  Unofficial Draft + date | KERI WG | [Link](https://github.com/decentralized-identity/keri) |
 | VC Marketplace | __Strawman__ |  pre-draft | CC WG | [Link](https://identity.foundation/vc-marketplace/) |
+| WACI PeX | __Strawman__ | - | CC WG | [Link](https://identity.foundation/waci-presentation-exchange/) |
+
 
