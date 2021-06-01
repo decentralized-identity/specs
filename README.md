@@ -24,4 +24,5 @@ Not finalized specifications at DIF
 | Confidential Storage 0.1 | __Draft__ |  Unofficial Draft + date |SDS WG | [Link](https://identity.foundation/confidential-storage/) |
 | Credential Manifest | __Strawman__ |  Unofficial Draft + date | SDS WG | [Link](https://github.com/decentralized-identity/credential-manifest/) |
 | KERI | __Strawman__ |  Unofficial Draft + date | KERI WG | [Link](https://github.com/decentralized-identity/keri) |
+| VC Marketplace | __Strawman__ |  pre-draft | CC WG | [Link](https://identity.foundation/vc-marketplace/) |
 
