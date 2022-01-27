@@ -9,7 +9,7 @@ Finalized specifications at DIF
 |---|---|---|-----| ---| ---|
 | .well-known DID configuration  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | | [Link](https://identity.foundation/specs/did-configuration/) |
 | Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
-| Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [Link](https://github.com/decentralized-identity/presentation-exchange) |
+| Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
 
 
 
@@ -25,6 +25,6 @@ Not finalized specifications at DIF
 | Credential Manifest | __Strawman__ |  Unofficial Draft + date | SDS WG | [Link](https://github.com/decentralized-identity/credential-manifest/) |
 | KERI | __Strawman__ |  Unofficial Draft + date | KERI WG | [Link](https://github.com/decentralized-identity/keri) |
 | VC Marketplace | __Strawman__ |  pre-draft | CC WG | [Link](https://identity.foundation/vc-marketplace/) |
-| WACI PeX | __Strawman__ | - | CC WG | [Link](https://identity.foundation/waci-presentation-exchange/) |
+| WACI PeX | __Strawman__ | - | CC WG | [current draft](https://identity.foundation/waci-presentation-exchange/) |
 
 
