@@ -18,7 +18,7 @@ Not finalized specifications at DIF
 
 | name of work item  | status  | unofficial status  | maintaining WG  | link |
 |---|---|---|-----| ---| 
-| Linked Verifiable Presentation  | __Working Group Approved__ | Approved Deliverable  | I&D WG  | | [Link](https://identity.foundation/linked-vp) |``
+| Linked Verifiable Presentation  | __Working Group Approved__ | Approved Deliverable  | I&D WG  | | [Link](https://identity.foundation/linked-vp) |
 | Peer DID Method Specification  | __Draft__ | -  | DIDcomm  | [Link](https://identity.foundation/peer-did-method-spec/) |
 | Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft - moved to OIDF__  |  -  | DID Auth WG - OIDF  | [Link](https://identity.foundation/did-siop/) |
 | DIDComm Messaging  | __Draft__  | Editor’s Draft   | DIDComm WG | [Link](https://identity.foundation/didcomm-messaging/spec/) |
