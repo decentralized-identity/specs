@@ -9,7 +9,7 @@ Finalized specifications at DIF
 |---|---|---|-----| ---| ---|
 | .well-known DID configuration  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | | [Link](https://identity.foundation/specs/did-configuration/) |
 | Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
-| Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
+| Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [v2.1.1](https://identity.foundation/presentation-exchange/spec/v2.1.1/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
 
 
 
