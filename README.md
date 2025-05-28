@@ -8,8 +8,13 @@ Finalized specifications at DIF
 | name of work item  | status  | unofficial status  | maintaining WG  | permanent link | link  
 |---|---|---|-----| ---| ---|
 | .well-known DID configuration  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | | [Link](https://identity.foundation/specs/did-configuration/) |
-| Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
+| CAWG Identity Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/identity/1.1/)  | [Link](https://cawg.io/identity/1.1/) |
+| CAWG Metadata Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/metadata/1.1/) | [Link](https://cawg.io/metadata/1.1/) |
+| CAWG Training and Data Mining Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/training-and-data-mining/1.1/)   | [Link](https://cawg.io/training-and-data-mining/1.1/) |
+| The did:webvh DID Method  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/didwebvh/v1.0/) | [Link](https://identity.foundation/didwebvh/v1.0/) |
 | Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [v2.1.1](https://identity.foundation/presentation-exchange/spec/v2.1.1/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
+| Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
+
 
 
 
