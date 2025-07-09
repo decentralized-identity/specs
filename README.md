@@ -23,9 +23,6 @@ Not finalized specifications at DIF
 
 | name of work item  | status  | unofficial status  | maintaining WG  | link |
 |---|---|---|-----| ---| 
-| Linked Verifiable Presentation  | __Working Group Approved__ | - | I&D WG  | [Link](https://identity.foundation/linked-vp) |
-| Peer DID Method Specification  | __Draft__ | -  | DIDcomm  | [Link](https://identity.foundation/peer-did-method-spec/) |
-| Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft - moved to OIDF__  |  -  | DID Auth WG - OIDF  | [Link](https://identity.foundation/did-siop/) |
 | Credential Schemas  | __Draft__  | Editor’s Draft   | C&C WG | [Link](https://identity.foundation/credential-schemas/) |
 | Decentralized Web Node  | __Draft__  | Editor’s Draft   | Secure Data Storage WG | [Link](https://identity.foundation/decentralized-web-node/spec/) |
 | DIDComm Messaging  | __Draft__  | Editor’s Draft   | DIDComm WG | [Link](https://identity.foundation/didcomm-messaging/spec/) |
@@ -33,6 +30,9 @@ Not finalized specifications at DIF
 | Confidential Storage 0.1 | __Draft__ |  Unofficial Draft + date |SDS WG | [Link](https://identity.foundation/confidential-storage/) |
 | Credential Manifest | __Strawman__ |  Unofficial Draft + date | SDS WG | [Link](https://github.com/decentralized-identity/credential-manifest/) |
 | KERI | __Strawman__ |  Unofficial Draft + date | KERI WG | [Link](https://github.com/decentralized-identity/keri) |
+| Linked Verifiable Presentation  | __Working Group Approved__ | - | I&D WG  | [Link](https://identity.foundation/linked-vp) |
+| Peer DID Method Specification  | __Draft__ | -  | DIDcomm  | [Link](https://identity.foundation/peer-did-method-spec/) |
+| Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft - moved to OIDF__  |  -  | DID Auth WG - OIDF  | [Link](https://identity.foundation/did-siop/) |
 | VC Marketplace | __Strawman__ |  pre-draft | CC WG | [Link](https://identity.foundation/vc-marketplace/) |
 | WACI PeX | __Strawman__ | - | CC WG | [current draft](https://identity.foundation/waci-presentation-exchange/) |
 
