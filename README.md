@@ -12,6 +12,7 @@ Finalized specifications at DIF
 | CAWG Metadata Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/metadata/1.1/) | [Link](https://cawg.io/metadata/1.1/) |
 | CAWG Training and Data Mining Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/training-and-data-mining/1.1/)   | [Link](https://cawg.io/training-and-data-mining/1.1/) |
 | The did:webvh DID Method  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/didwebvh/v1.0/) | [Link](https://identity.foundation/didwebvh/v1.0/) |
+| DID Traits  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/did-traits/v1.0.0/) | [Link](https://identity.foundation/did-traits/v1.0.0/) |
 | Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [v2.1.1](https://identity.foundation/presentation-exchange/spec/v2.1.1/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
 | Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
 
