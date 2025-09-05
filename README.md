@@ -7,7 +7,7 @@ Finalized specifications at DIF
 
 | name of work item  | status  | unofficial status  | maintaining WG  | permanent link | link  
 |---|---|---|-----| ---| ---|
-| .well-known DID configuration  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | | [Link](https://identity.foundation/well-known-did-configuration/resources/did-configuration) |
+| .well-known DID configuration  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/well-known-did-configuration/resources/did-configuration/v1.0.0) | [Link](https://identity.foundation/well-known-did-configuration/resources/did-configuration) |
 | CAWG Identity Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/identity/1.1/)  | [Link](https://cawg.io/identity/1.1/) |
 | CAWG Metadata Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/metadata/1.1/) | [Link](https://cawg.io/metadata/1.1/) |
 | CAWG Training and Data Mining Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/training-and-data-mining/1.1/)   | [Link](https://cawg.io/training-and-data-mining/1.1/) |
