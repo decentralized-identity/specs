@@ -15,6 +15,7 @@ Finalized specifications at DIF
 | DID Traits  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/did-traits/v1.0.0/) | [Link](https://identity.foundation/did-traits/v1.0.0/) |
 | Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [v2.1.1](https://identity.foundation/presentation-exchange/spec/v2.1.1/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
 | Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
+| Linked Verifiable Presentation  | __DIF Ratified Specification__ | Approved Deliverable | I&D WG  | [v1.0.0](https://identity.foundation/linked-vp/spec/v1.0.0/) | [current draft](https://identity.foundation/linked-vp)|
 
 
 
@@ -31,7 +32,6 @@ Not finalized specifications at DIF
 | Confidential Storage 0.1 | __Draft__ |  Unofficial Draft + date |SDS WG | [Link](https://identity.foundation/confidential-storage/) |
 | Credential Manifest | __Strawman__ |  Unofficial Draft + date | SDS WG | [Link](https://github.com/decentralized-identity/credential-manifest/) |
 | KERI | __Strawman__ |  Unofficial Draft + date | KERI WG | [Link](https://github.com/decentralized-identity/keri) |
-| Linked Verifiable Presentation  | __Working Group Approved__ | - | I&D WG  | [Link](https://identity.foundation/linked-vp) |
 | Peer DID Method Specification  | __Draft__ | -  | DIDcomm  | [Link](https://identity.foundation/peer-did-method-spec/) |
 | Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft - moved to OIDF__  |  -  | DID Auth WG - OIDF  | [Link](https://identity.foundation/did-siop/) |
 | VC Marketplace | __Strawman__ |  pre-draft | CC WG | [Link](https://identity.foundation/vc-marketplace/) |
