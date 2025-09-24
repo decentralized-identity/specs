@@ -1,39 +1,33 @@
 # specs
-The completed, officially approved versions of DIF specifications and links to not yet finalized ones. 
+
+Registry of DIF specifications showing current status, ratified versions, and active development drafts.
+
+| Specification | Status | Maintaining WG | Latest Ratified Version | Working Draft |
+|---------------|--------|----------------|-------------------------|---------------|
+| .well-known DID configuration | __DIF Ratified Specification__ | I&D WG | [v1.0.0](https://identity.foundation/well-known-did-configuration/resources/did-configuration/v1.0.0) | [current draft](https://identity.foundation/well-known-did-configuration/resources/did-configuration) |
+| CAWG Identity Assertions  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/identity/1.1/)  | [1.2 draft](https://cawg.io/identity/1.2-draft/) |
+| CAWG Metadata Assertions  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/metadata/1.1/) | [1.2 draft](https://cawg.io/metadata/1.2-draft+media-identifiers/) |
+| CAWG Training and Data Mining Assertions  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/training-and-data-mining/1.1/)   | n/a |
+| CAWG Metadata Assertions  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/metadata/1.1/) | [current draft](https://cawg.io/metadata/) |
+| CAWG Training and Data Mining Assertions  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/training-and-data-mining/1.1/)   | [current draft](https://cawg.io/training-and-data-mining/) |
+| Confidential Storage | __Draft__  |SDS WG |   |  [current draft](https://identity.foundation/confidential-storage/) |
+| Credential Manifest | __Draft__ |  SDS WG |  |  [current draft](https://identity.foundation/credential-manifest/) |
+| Credential Schemas  | __Draft__ | C&C WG | | [current draft](https://identity.foundation/credential-schemas/) |
+| Credential Trust Establishment | __DIF Ratified Specification__  | C&C WG | [v1.0](https://identity.foundation/credential-trust-establishment/) | [current draft](https://identity.foundation/credential-trust-establishment/) |
+| Decentralized Web Node  | __Draft__  | Secure Data Storage WG |  |  [current draft](https://identity.foundation/decentralized-web-node/spec/) |
+| The did:webvh DID Method  | __DIF Ratified Specification__ | I&D WG | [v1.0](https://identity.foundation/didwebvh/v1.0/) | [current draft](https://identity.foundation/didwebvh/) |
+| DIDComm Messaging  | __DIF Ratified Specification__ | DIDComm WG | [v2.1](https://identity.foundation/didcomm-messaging/spec/v2.1/)|  [current draft](https://identity.foundation/didcomm-messaging/spec/) |
+| DID Registration  | __Draft__  |  I&D WG |  |  [current draft](https://identity.foundation/did-registration/) |
+| DID Traits  | __DIF Ratified Specification__ | I&D WG | [v1.0.0](https://identity.foundation/did-traits/v1.0.0/) | [current draft](https://identity.foundation/did-traits/) |
+| KERI - ARCHIVED | __Draft__ | KERI WG |   |  [current draft](https://github.com/decentralized-identity/keri) |
+| Linked Verifiable Presentation  | __DIF Ratified Specification__ | I&D WG  | [v1.0.0](https://identity.foundation/linked-vp/spec/v1.0.0/) | [current draft](https://identity.foundation/linked-vp)|
+| Peer DID Method Specification  | __Draft__ | DIDcomm  |  |   [current draft](https://identity.foundation/peer-did-method-spec/) |
+| Presentation Exchange | __DIF Ratified Specification__ | C&C WG |  [v1.0.0](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [v2.1.1](https://identity.foundation/presentation-exchange/spec/v2.1.1/) | [current draft](https://github.com/decentralized-identity/presentation-exchange) |
+| Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft - moved to OIDF__  | DID Auth WG - OIDF  | | [current draft](https://identity.foundation/did-siop/) |
+| Sidetree   | __DIF Ratified Specification__  | Sidetree WG |[v1.0.1](https://identity.foundation/sidetree/spec/) | [current draft](https://identity.foundation/sidetree/spec/) |
+| VC Marketplace | __Draft__| CC WG | | [current draft](https://identity.foundation/vc-marketplace/) |
+| WACI PeX | __Draft__ | CC WG | | [current draft](https://identity.foundation/waci-presentation-exchange/) |
 
 
----
-Finalized specifications at DIF
-
-| name of work item  | status  | unofficial status  | maintaining WG  | permanent link | link  
-|---|---|---|-----| ---| ---|
-| .well-known DID configuration  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [v1.0.0](https://identity.foundation/well-known-did-configuration/resources/did-configuration/v1.0.0) | [current draft](https://identity.foundation/well-known-did-configuration/resources/did-configuration) |
-| CAWG Identity Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/identity/1.1/)  | [Link](https://cawg.io/identity/1.1/) |
-| CAWG Metadata Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/metadata/1.1/) | [Link](https://cawg.io/metadata/1.1/) |
-| Credential Trust Establishment | __DIF Ratified Specification__  | Approved Deliverable  | C&C WG |  [Link](https://identity.foundation/credential-trust-establishment/) |
-| CAWG Training and Data Mining Assertions  | __DIF Ratified Specification__ | Approved Deliverable  | CA WG  | [Link](https://cawg.io/training-and-data-mining/1.1/)   | [Link](https://cawg.io/training-and-data-mining/1.1/) |
-| DID Traits  |__DIF Ratified Specification__  |  Approved Deliverable  | I&D WG  | [v1.0.0](https://identity.foundation/did-traits/v1.0.0/) | [current draft](https://identity.foundation/did-traits/) |
-| The did:webvh DID Method  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/didwebvh/v1.0/) | [Link](https://identity.foundation/didwebvh/v1.0/) |
-| DID Traits  | __DIF Ratified Specification__ | Approved Deliverable  | I&D WG  | [Link](https://identity.foundation/did-traits/v1.0.0/) | [Link](https://identity.foundation/did-traits/v1.0.0/) |
-| Presentation Exchange | __DIF Ratified Specification__ |  Approved Deliverable | C&C WG | | [v1](https://identity.foundation/presentation-exchange/spec/v1.0.0/) / [v2.1.1](https://identity.foundation/presentation-exchange/spec/v2.1.1/) / [current draft](https://github.com/decentralized-identity/presentation-exchange) |
-| Sidetree    | __DIF Ratified Specification__   | Editor's draft   | Sidetree WG | | [Link](https://identity.foundation/sidetree/spec/) |
-| Linked Verifiable Presentation  | __DIF Ratified Specification__ | Approved Deliverable | I&D WG  | [v1.0.0](https://identity.foundation/linked-vp/spec/v1.0.0/) | [current draft](https://identity.foundation/linked-vp)|
-
-Not finalized specifications at DIF
-
-
-| name of work item  | status  | unofficial status  | maintaining WG  | link |
-|---|---|---|-----| ---| 
-| Credential Schemas  | __Draft__  | Editor’s Draft   | C&C WG | [Link](https://identity.foundation/credential-schemas/) |
-| Decentralized Web Node  | __Draft__  | Editor’s Draft   | Secure Data Storage WG | [Link](https://identity.foundation/decentralized-web-node/spec/) |
-| DIDComm Messaging  | __Draft__  | Editor’s Draft   | DIDComm WG | [Link](https://identity.foundation/didcomm-messaging/spec/) |
-| DID Registration  | __Draft__  | Editor’s Draft   | I&D WG | [Link](https://identity.foundation/did-registration/) |
-| Confidential Storage 0.1 | __Draft__ |  Unofficial Draft + date |SDS WG | [Link](https://identity.foundation/confidential-storage/) |
-| Credential Manifest | __Strawman__ |  Unofficial Draft + date | SDS WG | [Link](https://github.com/decentralized-identity/credential-manifest/) |
-| KERI | __Strawman__ |  Unofficial Draft + date | KERI WG | [Link](https://github.com/decentralized-identity/keri) |
-| Peer DID Method Specification  | __Draft__ | -  | DIDcomm  | [Link](https://identity.foundation/peer-did-method-spec/) |
-| Self-Issued OpenID Connect Provider DID Profile v0.1  | __Working Group Approved Draft - moved to OIDF__  |  -  | DID Auth WG - OIDF  | [Link](https://identity.foundation/did-siop/) |
-| VC Marketplace | __Strawman__ |  pre-draft | CC WG | [Link](https://identity.foundation/vc-marketplace/) |
-| WACI PeX | __Strawman__ | - | CC WG | [current draft](https://identity.foundation/waci-presentation-exchange/) |
 
 
