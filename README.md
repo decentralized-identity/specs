@@ -10,7 +10,7 @@ Registry of DIF specifications showing current status, ratified versions, and ac
 | CAWG Training and Data Mining Assertion  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/training-and-data-mining/1.1/)   | [current draft](https://cawg.io/training-and-data-mining/draft/) |
 | Confidential Storage | __Draft__  |SDS WG |   |  [current draft](https://identity.foundation/confidential-storage/) |
 | Credential Manifest | __Draft__ |  SDS WG |  |  [current draft](https://identity.foundation/credential-manifest/) |
-| Credential Schemas  | __Draft__ | C&C WG | [v1.0](https://identity.foundation/credential-schemas/v1.0.0/) | [current draft](https://identity.foundation/credential-schemas/) |
+| Credential Schemas  | __DIF Ratified Specification__ | C&C WG | [v1.0](https://identity.foundation/credential-schemas/v1.0.0/) | [current draft](https://identity.foundation/credential-schemas/) |
 | Credential Trust Establishment | __DIF Ratified Specification__  | C&C WG | [v1.0](https://identity.foundation/credential-trust-establishment/) | [current draft](https://identity.foundation/credential-trust-establishment/) |
 | Decentralized Web Node  | __Draft__  | Secure Data Storage WG |  |  [current draft](https://identity.foundation/decentralized-web-node/spec/) |
 | The did:webvh DID Method  | __DIF Ratified Specification__ | I&D WG | [v1.0](https://identity.foundation/didwebvh/v1.0/) | [current draft](https://identity.foundation/didwebvh/) |
