@@ -5,7 +5,7 @@ Registry of DIF specifications showing current status, ratified versions, and ac
 | Specification | Status | Maintaining WG | Latest Ratified Version | Working Draft |
 |---------------|--------|----------------|-------------------------|---------------|
 | .well-known DID configuration | __DIF Ratified Specification__ | I&D WG | [v1.0.0](https://identity.foundation/well-known-did-configuration/resources/did-configuration/v1.0.0) | [current draft](https://identity.foundation/well-known-did-configuration/resources/did-configuration) |
-| CAWG Identity Assertion  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/identity/1.1/)  | [1.2 draft](https://cawg.io/identity/draft/) |
+| CAWG Identity Assertion  | __DIF Ratified Specification__ | CA WG | [v1.2](https://cawg.io/identity/1.2/)  | [current draft](https://cawg.io/identity/draft/) |
 | CAWG Metadata Assertion  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/metadata/1.1/) | [1.2 draft](https://cawg.io/metadata/draft/) |
 | CAWG Training and Data Mining Assertion  | __DIF Ratified Specification__ | CA WG | [v1.1](https://cawg.io/training-and-data-mining/1.1/)   | [current draft](https://cawg.io/training-and-data-mining/draft/) |
 | Confidential Storage | __Draft__  |SDS WG |   |  [current draft](https://identity.foundation/confidential-storage/) |
